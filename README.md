@@ -48,6 +48,10 @@ It provides a comprehensive view of policy distribution, premium-to-claim ratios
 
 # 📷 Dashboard Preview
 
+<img width="2048" height="1173" alt="175637379045063831098764854498" src="https://github.com/user-attachments/assets/0ec279e3-935e-4e20-bc62-ae2dec998024" />
+
+And here is pbix Dashboard :
+
 
 
 ## 🛠️ Tools & Technologies

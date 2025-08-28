@@ -76,4 +76,4 @@ And here is pbix Dashboard :
 ## 👨‍💻 connect with me
 Ali Arsalan
 📌 Data Analyst | Power BI | SQL |           Excel | Python  
-🔗 [LinkedIn](#) | [GitHub](#https://github.com/kaifo3301/Insurance-Analysis-Dashboard-)
+🔗 [LinkedIn](#) | [GitHub](https://github.com/kaifo3301/Insurance-Analysis-Dashboard-)

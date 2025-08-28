@@ -52,6 +52,7 @@ It provides a comprehensive view of policy distribution, premium-to-claim ratios
 
 And here is pbix Dashboard :
 
+- https://github.com/kaifo3301/Insurance-Analysis-Dashboard-/blob/main/report-template-with-data-1.pbix
 
 
 ## 🛠️ Tools & Technologies
